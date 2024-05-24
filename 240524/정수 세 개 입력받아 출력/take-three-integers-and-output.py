@@ -1,0 +1,8 @@
+a=input()
+b=a.split()
+a1=int(b[0])
+a2=int(b[1])
+c=int(input())
+print(a1,end=' ')
+print(a2,end=' ')
+print(c)
