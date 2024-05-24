@@ -1,0 +1,6 @@
+j=input().split()
+a=int(j[0])
+b=int(j[1])
+c=int(j[2])
+print(a+b+c)
+print(f'{(a+b+c)//3}')
