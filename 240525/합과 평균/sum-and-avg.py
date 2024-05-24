@@ -1,0 +1,5 @@
+j=input().split()
+a=int(j[0])
+b=int(j[1])
+print(a+b,end=' ')
+print(f'{(a+b)/2:.1f}')
