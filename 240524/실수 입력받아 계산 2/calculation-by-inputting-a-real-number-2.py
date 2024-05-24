@@ -1,0 +1,5 @@
+a=input()
+a=float(a)
+b=(a+1.5)
+c=(f'{b:.2f}')
+print(c)
