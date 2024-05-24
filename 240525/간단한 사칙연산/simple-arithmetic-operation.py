@@ -1,0 +1,7 @@
+a1=input().split()
+a=int(a1[0])
+b=int(a1[1])
+print(a+b)
+print(a-b)
+print(a//b)
+print(a%b)
