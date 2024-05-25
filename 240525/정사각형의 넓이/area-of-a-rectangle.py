@@ -1,6 +1,6 @@
 n=int(input())
 s=n*n
-if s<5:
+if s<25:
     print(s)
     print('tiny')
 else:
