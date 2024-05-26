@@ -1,0 +1,10 @@
+j=input().split()
+a=int(j[0])
+b=int(j[1])
+
+print(int(a>=b))
+print(int(a>b))
+print(int(b>=a))
+print(int(b>a))
+print(int(a==b))
+print(int(a!=b))
