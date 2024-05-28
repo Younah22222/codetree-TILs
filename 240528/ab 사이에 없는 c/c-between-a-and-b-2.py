@@ -8,5 +8,5 @@ for i in range(a,b+1):
         cnt+=1
 if cnt==0:
     print('NO')
-else:
+elif cnt!=0:
     print('YES')
