@@ -7,7 +7,9 @@ c=int(j[2])
 
 if a>b:
     a,b=b,a
-if b>c:
-    b,c=c,b
+    if b>c:
+      b,c=c,b
+else:
+    pass
 
 print(b)
