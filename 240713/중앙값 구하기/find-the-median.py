@@ -7,7 +7,7 @@ c=int(j[2])
 
 if a>b:
     a,b=b,a
-elif b>c:
-    b,c=c,b
+    if b>c:
+       b,c=c,b
 
-print (b)
+print(b)
