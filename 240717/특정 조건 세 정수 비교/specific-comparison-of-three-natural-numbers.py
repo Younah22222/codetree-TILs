@@ -5,7 +5,7 @@ a=int(j[0])
 b=int(j[1])
 c=int(j[2])
 
-if a<b and a<c:
+if a<=b and a<=c:
     print(1,end=' ')
 else:
     print(0,end=' ')
