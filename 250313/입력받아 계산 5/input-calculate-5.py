@@ -1,5 +1,5 @@
 i=input()
 arr=i.split()
-a=arr[0]
-b=arr[1]
+a=int(arr[0])
+b=int(arr[1])
 print(a+b)
