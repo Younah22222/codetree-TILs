@@ -1,5 +1,5 @@
 a=int(input())
-i=0
-while i<a:
-    i+=3
-    print(i,end=' ')
+i=1
+while i*3<=a:
+    print(i*3,end=' ')
+    i+=1
