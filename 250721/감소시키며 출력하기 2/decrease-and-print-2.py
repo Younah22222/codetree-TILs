@@ -1,4 +1,4 @@
 i=26
 while i>9:
-    print(i)
+    print(i,end=' ')
     i-=1
